@@ -7,6 +7,7 @@ ____________________________________
 
 Please note :
 
+- the Business Delegate pattern has been deliberately omitted because of application's test purpose
 - the sql script of Db Table named "User" is under the folder ...
 - at the application start up an sql insert is executed in order to store 3 different user by default
 - to read all stored User, lunch from browser : localhost:8080/getAllUsers
