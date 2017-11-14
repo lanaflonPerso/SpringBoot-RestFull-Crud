@@ -1,4 +1,4 @@
-# WebServices RestFull/Db driven BackEnd WebApp
+# User Management Java EE/DB driven BackEnd WebApp
 
 Used technology : <b>IntelliJ Idea, Spring Core, Spring Boot, Spring Rest, Spring Data Jpa, MySql Database, Git, Maven Multi Module Project, Java EE 7, Server target : Tomcat.</b>
 <br><br>
