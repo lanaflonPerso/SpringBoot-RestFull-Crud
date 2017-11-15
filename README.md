@@ -7,11 +7,9 @@ ____________________________________
 
 Please note :
 
-- start the WebApp by launching web\src\main\java\mc\web\StartApp.java
+- Business Delegate pattern has been deliberately omitted because of application's test purpose
 - at the application start up an sql insert is executed in order to store 3 different users by default
-- the Business Delegate pattern has been deliberately omitted because of application's test purpose
-- the sql script of Db Table named "User" is under the folder web\src\main\script
-- the SpringBoot application.properties file is under the folder web\src\main\resources
+- Db Table named "User" is under the folder web\src\main\script
 - to read all stored User, lunch from browser : localhost:8080/getAllUsers
 - to search a specific User by surname, lunch from browser : localhost:8080/getBySurname?surname=[surname]
 - to create a User, lunch from browser : localhost:8080/create?name=[name]&surname[surname]
