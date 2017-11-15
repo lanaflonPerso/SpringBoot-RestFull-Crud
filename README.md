@@ -7,7 +7,7 @@ ____________________________________
 
 Please note :
 
-- Business Delegate pattern has been deliberately omitted because of application's test purpose
+- Business Delegate pattern (Spring Services) has been deliberately omitted because of application's test purpose
 - at the application start up an sql insert is executed in order to store 3 different users by default
 - Db Table named "User" is under the folder web\src\main\script
 - to read all stored User, lunch from browser : localhost:8080/getAllUsers
