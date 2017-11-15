@@ -1,6 +1,8 @@
 # User Management Java EE/DB driven BackEnd WebApp
 
-Used technology : <b>IntelliJ Idea, Spring Core, Spring Boot, Spring Rest, Spring Data Jpa, MySql Database, Git, Maven Multi Module Project, Java EE 7, Server target : Tomcat.</b>
+Type : Java EE 7 archetype 
+
+Used technology : <b>IntelliJ Idea, Spring Core, Spring Boot, Spring Rest, Spring Data Jpa, MySql Database, Git, Maven Multi Module Project, Server target : Tomcat.</b>
 <br><br>
 Objective : Create, read, update and delete operations of Users on MySql Db through ResFull WebServices that returns JSon data (format data exchange exposed, for example, to be managed from Angular 2 Framework)
 ____________________________________
