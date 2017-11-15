@@ -1,4 +1,4 @@
-# User Management Java EE/DB driven BackEnd WebApp
+# User Management Java EE/DB driven BackEnd
 
 Type : Java EE 7 archetype 
 
